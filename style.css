@@ -18,7 +18,7 @@ img {
 }
 
 p {
-  color: yellow;
+  color: rgb(255, 119, 0);
   font-family: Helvetica, sans-serif;
   font-weight: bold;
 }
@@ -32,5 +32,5 @@ p {
 
 .corporation {
   font-family: cyberdyne;
-  color: orange;
+  color: yellow;
 }
