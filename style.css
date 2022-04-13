@@ -2,6 +2,13 @@ body {
   background-color: darkslategray;
 }
 
+header {
+  font-family: Cyberpnuk2;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
 img {
   width: 300px;
 }
