@@ -3,6 +3,8 @@ body {
 }
 
 header {
+  background-image: url("./images/dark-alleyway-city-with-grunge-background.jpg");
+  color: yellow;
   font-family: Cyberpnuk2;
   font-size: 50px;
   font-weight: bold;
