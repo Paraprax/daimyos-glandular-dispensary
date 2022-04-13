@@ -1,5 +1,7 @@
 body {
   background-color: darkslategray;
+  background-image: url("./images/black-corrugated-wallpaper-orange-slash-small.jpg");
+  background-position: 0%;
 }
 
 header {
@@ -13,6 +15,12 @@ header {
 
 img {
   width: 300px;
+}
+
+p {
+  color: yellow;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
 }
 
 .product-name {
