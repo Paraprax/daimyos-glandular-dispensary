@@ -29,3 +29,8 @@ p {
   font-weight: bold;
   color: aliceblue;
 }
+
+.corporation {
+  font-family: cyberdyne;
+  color: orange;
+}
